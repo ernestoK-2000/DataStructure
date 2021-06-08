@@ -1,5 +1,5 @@
 package nodes;
-
+//test
 public class MyBinNode<E> extends MyNode<E>{
     //public MyBinNode<E> left;
     //public MyBinNode<E> right;
